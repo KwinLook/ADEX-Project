@@ -1,2 +1,7 @@
 # ADEX-Project
-Project AUTOMATED EXPLOSIVE UNIT DETECTION THROUGH CLASSIFICATION OF  X-RAYS IMAGES USING CONVOLUTIONAL NEURAL NETWORKS
+
+
+| <img src="https://github.com/KwinLook/ADEX-Project/blob/main/Project-Diagram/ADEX-Diagram.png" class="img-responsive"> |
+|:---:|
+| General framework of model development and evaluation |
+

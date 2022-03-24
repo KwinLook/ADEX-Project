@@ -15,6 +15,10 @@ The Confusion Matrix is a vital table to measure the ability of a machine learni
 2. **TN** :True Negative mean the program indicates is non-explosive, and its reality is non-explosive 
 3. **FP** :False Positive mean the program indicates is explosive, and its reality is non-explosive 
 4. **FN** :False negative mean the program indicates is non-explosive, and its reality is explosive
+| <img src="https://github.com/KwinLook/ADEX-Project/blob/main/Project-Diagram/Confusion%20Matrix.PNG" class="img-responsive"> |
+|:---:|
+| Illustration of a confusion matrix for this binary classification problem |
+
 
 ## To Beging With:
 1. You can just click on this

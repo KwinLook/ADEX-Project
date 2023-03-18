@@ -23,6 +23,6 @@ The Confusion Matrix is a vital table to measure the ability of a machine learni
 
 ## To Beging With:
 1. You can just click on this
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KwinLook/ADEX-Project/blob/main/Project-Code/ADEX_Project_Launch_Colab.ipynb) to open and work with the provided tutorial using a free GPU.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KwinLook/ADEX-Project/blob/main/Project-Code/CNN%20Model/ADEX_Project_Launch_Colab.ipynb) to open and work with the provided tutorial using a free GPU.
  
-2. As for the volume of data to be increased, it must run the Python commands. [Data Augment](https://github.com/KwinLook/ADEX-Project/blob/main/Project-Code/ADEX_Generate_Images_Useing_DataAugment.py)
+2. As for the volume of data to be increased, it must run the Python commands. [Data Augment](https://github.com/KwinLook/ADEX-Project/blob/main/Project-Code/Data%20Augmentation/ADEX_Generate_Images_Useing_DataAugment.py)

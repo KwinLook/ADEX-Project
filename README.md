@@ -1,4 +1,7 @@
 # ADEX-Project
+### Journal : [Improvised Explosive Device Detection Using CNN With X-Ray Images](https://research.aber.ac.uk/en/publications/improvised-explosive-device-detection-using-cnn-with-x-ray-images)
+### Fully Paper [JAIT-V14N4-674](https://www.jait.us/uploadfile/2023/JAIT-V14N4-674.pdf)
+
 The scope of this research is the use of portable X-ray camera equipment suitable for explosive ordnance disposal robots. To store image data used to develop data analysis and machine learning models, including the use of X-ray image data obtained from various cases. These show the presence of explosive-unit elements according to the experience of experts from the Institute of Defense Technology and Royal Thai Air Force: Ordnance Department. To accomplish this goal, the proposed research brings about an effective application of modern artificial intelligence and machine learning technologies in pattern recognition such as deep learning.
 | <img src="https://github.com/KwinLook/ADEX-Project/blob/main/Project-Diagram/General-ADEX-Diagram-Page-4.drawio.png" class="img-responsive"> |
 |:---:|
